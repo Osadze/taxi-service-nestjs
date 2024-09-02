@@ -1,6 +1,7 @@
 🚖 Taxi Service Backend Microservices API
 
 This project is a backend API for a taxi service, built with a microservices architecture using NestJS and Kafka. The main goal is to provide a scalable and real-time backend for managing taxi services, including user authentication, ride bookings, and driver management. The system handles multiple services, communicating via Kafka, and supports real-time updates through WebSockets.
+
 📌 What the Project Does
 
 The API is designed to power a taxi service application where users (riders) can log in, book rides, and where drivers can accept or decline these ride requests. The system is based on microservices, focusing on scalability and real-time data exchange. Here's a breakdown:
