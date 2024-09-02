@@ -40,4 +40,4 @@ The main goal was to have a single API gateway managing two primary services: th
 
 This project is one of the biggest challenges I’ve faced in my career. I was originally hired by a contractor to work on it, and I started when I had about two years of experience with Node.js and almost no experience with microservices. I was the only backend developer, so I had to develop the software design and architecture by myself, which took me a month of research. I chose Kafka as the message broker because companies like Uber and Bolt were using it.
 
-Unfortunately, I had to stop working on this project due to some issues with the contractor. Even though it's only 25% finished, it’s still on
+Unfortunately, I had to stop working on this project due to some issues with the contractor. Even though it's only 40% finished, it’s still on
